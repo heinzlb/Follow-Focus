@@ -13,6 +13,6 @@ The Moteino version is different obviously:
 //    for more info visit      //
 // http://adisoffer.tumblr.com //
 
-Since the last change is from over a year ago I decided to fork this build and extend it as much as I am capable of.
+Since the last change is from over a year ago I decided to fork this build and extend it as much as I am capable of. #HEINZLB
 
 More to come
